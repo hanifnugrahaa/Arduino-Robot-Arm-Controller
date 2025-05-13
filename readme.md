@@ -47,16 +47,9 @@ Upload program ke Arduino dan buka Serial Monitor dengan baudrate 9600. Kirim an
 ## Kode Rahasia
 
 Program ini memiliki kode rahasia yang dapat digunakan:
-- 5146752246753046760 -- flexing (mode demonstrasi fleksibilitas gerakan)
-- 1569 -- demo (mode demonstrasi singkat)
+- 5146752246753046760 -- flexing mode
+- 1569 -- demo mode
 
-## Pengembangan Lanjutan
-
-Beberapa ide pengembangan untuk proyek ini:
-- Menambahkan kontrol posisi yang lebih presisi
-- Implementasi inverse kinematics
-- Penambahan antarmuka pengguna grafis
-- Pengendalian via Bluetooth/WiFi
 
 ## Lisensi
 
