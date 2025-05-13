@@ -1,6 +1,7 @@
 # Arduino Robot Arm Controller
 
 Pengendali robot arm berbasis Arduino dengan 4 derajat kebebasan (DOF) sederhana.
+Proyek ini dibuat sebagai bagian dari tugas proyek mata kuliah Robotika
 
 ![Robot Arm Illustration](images/robot-arm.jpg)
 
